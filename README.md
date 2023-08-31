@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/ttCWLzy.png" alt="print consol"/>
+  <img src="https://i.imgur.com/yhAJupx.png" alt="print consol"/>
 </p>
 
 <h1>Mortgage Calculator</h1>
