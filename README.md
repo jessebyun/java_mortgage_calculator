@@ -9,5 +9,4 @@ Created a mortgage calculator using Java programming language. First wrote the m
 Procedural programming structures the code into a logical order or steps. It is straightforward and direct. It is great for simple tasks or programs with just a few lines of code. However as a program grows, procedural code can become harder to maintain and understand due to the lack of abstraction and organization. 
 
 <h2>Object-Oriented Design (OOD)</h2>
-
-<h2>Refactoring</h2>
+In Object-Oriented Programming is based on the concept of "objects" which can contain data and methods to manipulate that data. Objects are instances of classes, which define the blueprint for these objects. This design approach makes software more modular, reusable, and easier to maintain. Modular design makes it easier to break down complex systems into manageable pieces. Objects and classes can be reused across projects and reduce redundancy. 
